@@ -161,4 +161,4 @@ https://github.com/kilickursat/pi-gan-rockmechanics
 
 ## License
 
-Add your preferred license before public release. If unsure, consider MIT for open research code.
+MIT License for open research code.
